@@ -25,6 +25,19 @@ Hyderabad is the capital of southern India's Telangana state. A major center for
 
 ** [Bio](AboutMe.md)**
 
+---
+
+# Table for Food Items
+
+The below table shows the must try food and drinks in Hyderabad including the cost for them.
+
+| Food/ Drink | Location | Cost per Item in Rupees|
+| :---:       | :-:      | :-:                |
+| Biryani | Secunderabad | 280 |
+| Kaju Sweet | Jubileehills | 1200 |
+| Chat | Koti | 50 |
+| Breakfast | Charminar | 90 |
+
 
 
 
