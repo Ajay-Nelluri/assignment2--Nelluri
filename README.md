@@ -18,9 +18,9 @@ Hyderabad is the capital of southern India's Telangana state. A major center for
 1. Vehicle- To  travel all the locations in Hyderabad
 2. Gadgets/costumes - Like costumes and  party speakers
 3. Food 
-   3a. fruits
-   3b. salads
-   3c. Meat and veggies
+   - fruits
+   - salads
+   - Meat and veggies
 4. Money for expenses 
 
 
