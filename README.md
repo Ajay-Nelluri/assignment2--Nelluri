@@ -39,6 +39,19 @@ The below table shows the must try food and drinks in Hyderabad including the co
 | Breakfast | Charminar | 90 |
 
 
+---
+
+# Quotes
+> All we have to decide is what to do with the time that is given us.
+>
+> It matters not what someone is born, but what they grow to be
+>
+*J.R.R. Tolkein*
+
+
+
+
+
 
 
 
